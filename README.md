@@ -19,3 +19,5 @@ compiled on any system with a C compiler.
 Advanced users and FFTW maintainers may obtain code from github and
 run the generation process themselves.  See README for details.
 
+# 依赖 fft 快速离散傅里叶变换
+    sudo apt-get install libfftw3-dev libfftw3-do
